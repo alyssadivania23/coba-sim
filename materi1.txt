@@ -1,0 +1,4 @@
+Jadwal sim :
+- kontrak
+- pendahuluan
+- review basis data
